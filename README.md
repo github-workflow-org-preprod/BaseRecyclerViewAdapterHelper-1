@@ -2,7 +2,7 @@
 [![](https://img.shields.io/maven-central/v/io.github.cymchad/BaseRecyclerViewAdapterHelper4)](https://repo.maven.apache.org/maven2/io/github/cymchad/BaseRecyclerViewAdapterHelper4/) [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-BaseRecyclerViewAdapterHelper-green.svg?style=true)](https://android-arsenal.com/details/1/3644) [![CircleCI](https://circleci.com/gh/CymChad/BaseRecyclerViewAdapterHelper/tree/master.svg?style=svg)](https://circleci.com/gh/CymChad/BaseRecyclerViewAdapterHelper/tree/master) [![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E9%99%88%E5%AE%87%E6%98%8E-7AD6FD.svg)](https://mp.weixin.qq.com/s/U4QAPlu5WDm8U5Ljc7TuAQ) [![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-limuyang2-7AD6FD)](https://github.com/limuyang2)  
 # BRVAH
 
-Powerful and flexible RecyclerView Adapter,
+Powerful and flexible RecyclerView Adapter, 
 Please feel free to use this. (Welcome to **Star** and **Fork**)  
 
 强大而灵活的RecyclerView Adapter（欢迎 **Star** 和 **Fork**）
